@@ -1,0 +1,38 @@
+.resuolt {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+
+}
+   input[type="number"] {
+    width: 100%;
+    padding: 5px;
+    font-size: 16px;
+
+   }
+button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+.box {
+    width: 200px;
+    height: 150px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc; 
+    border-radius: 10px; 
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+    color: #333;
+
+}
+
+
